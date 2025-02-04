@@ -16,6 +16,6 @@ Many of these methods, originally developed to study physical systems, are now w
 
 # Content
 
-* [logarith_binning.ipynb](https://github.com/ozsantospereira/computational_physics/blob/main/logarith_binning.ipynb): A revision of logarithm binning and its application to statistical distributions.
+* [logarithmic_binning.ipynb](https://github.com/ozsantospereira/computational_physics/blob/main/logarithmic_binning.ipynb): A revision of logarithm binning and its application to statistical distributions.
 
  
