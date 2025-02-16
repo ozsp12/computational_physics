@@ -15,7 +15,15 @@ Many of these methods, originally developed to study physical systems, are now w
 - **Optimization Techniques** (Gradient descent, variational methods)
 
 # Content
-
 * [logarithmic_binning.ipynb](https://github.com/ozsantospereira/computational_physics/blob/main/logarithmic_binning.ipynb): A revision of logarithm binning and its application to statistical distributions.
+
+# **My Social Media**
+- Website: [ozsantospereira.github.io](https://ozsantospereira.github.io/)
+- Medium: [@ozsp](https://medium.com/@ozsp)
+- Patreon: [ozsp](https://www.patreon.com/c/ozsp)
+- LinkedIn: [Osvaldo Pereira](https://www.linkedin.com/in/osvaldo-pereira)
+- Twitter/X: [@Osvaldo91422399](https://twitter.com/Osvaldo91422399)
+- ResearchGate: [Oz Santos Pereira](https://www.researchgate.net/profile/Oz-Santos-Pereira)
+- Google Scholar: [Osvaldo L. Santos-Pereira]
 
  
