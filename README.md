@@ -25,8 +25,8 @@ Muitos desses métodos, originalmente desenvolvidos para o estudo de sistemas f�
 - Visualização Científica: gráficos, animações, mapas de calor, campos vetoriais, superfícies, trajetórias e visualização de simulações físicas.
 - Computação de Alto Desempenho: vetorização, paralelização, uso eficiente de memória, aceleração com GPU e implementação escalável de simulações numéricas.
 
-# Content
-* [logarithmic_binning.ipynb](https://github.com/ozsantospereira/computational_physics/blob/main/logarithmic_binning.ipynb): A revision of logarithm binning and its application to statistical distributions.
+# Conteúdo do repositório
+* [logarithmic_binning.ipynb](https://github.com/ozsp12/computational_physics/tree/main/logarithm_binning): o agrupamento em intervalos logarítmicos é uma técnica usada para construir histogramas ou distribuições empíricas quando os dados variam em várias ordens de grandeza. Em vez de usar intervalos igualmente espaçados, os intervalos crescem em escala logarítmica, por exemplo, de forma geométrica. Esse método é especialmente útil na análise de leis de potência, distribuições de cauda longa, processos críticos, redes complexas e fenômenos estatísticos na física computacional. Ao reduzir as flutuações nas regiões de baixa frequência, o agrupamento logarítmico permite visualizar melhor a estrutura assintótica dos dados, desde que a contagem em cada intervalo seja corretamente normalizada pela largura do respectivo intervalo.
 
 # Social Media
 Currículo Lattes: http://lattes.cnpq.br/6730251976463283  
