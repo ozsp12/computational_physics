@@ -1,18 +1,29 @@
-# Computational Physics (mathematical methods for AI)
+# Física Computacional e Métodos Matemáticos em Inteligência Artificial
 
-In a Physics course, we learn various mathematical methods that help us understand the physical world and fit naturally within the realm of data science. Many techniques, such as numerical analysis, differential equations, and probability theory, are fundamental in computational physics and apply to machine learning, optimization, and statistical modeling.  This repository contains a collection of computational physics scripts showcasing implementations of key numerical methods used in physics simulations, modeling, and data analysis. The goal is to highlight the strong connection between computational physics and data science, demonstrating how physics-inspired approaches can be applied to modern data-driven problems.  
+Em um curso de Física, aprendemos diversos métodos matemáticos que nos ajudam a compreender o mundo físico e se inserem naturalmente no domínio da ciência de dados. Muitas técnicas, como análise numérica, equações diferenciais e teoria das probabilidades, são fundamentais para a física computacional e também são aplicadas em aprendizado de máquina, otimização e modelagem estatística. Este repositório contém uma coleção de scripts de física computacional que apresentam implementações de métodos numéricos essenciais utilizados em simulações físicas, modelagem e análise de dados. O objetivo é evidenciar a forte conexão entre a física computacional e a ciência de dados, demonstrando como abordagens inspiradas na física podem ser aplicadas a problemas modernos orientados por dados.
 
-# What's Inside  
-Many of these methods, originally developed to study physical systems, are now widely used in computational fields such as machine learning, scientific computing, and data-driven modeling. By bridging computational physics with modern data science, this repository is a practical reference for physicists and data scientists looking to explore their intersection. 
+# Tópicos abordados neste repositório
 
-- **Mathematical Methods of Physics** (Root-finding, numerical integration, differentiation)  
-- **Monte Carlo Simulations** (Random processes, stochastic modeling)  
-- **Differential Equations Solvers** (ODEs, PDEs, numerical stability)  
-- **Physics-Informed Neural Networks (PINNs)** (Deep learning for solving differential equations)  
-- **Data Fitting & Statistical Modeling** (Regression, curve fitting, Bayesian methods)  
-- **Signal Processing & Fourier Analysis** (Wave analysis, spectral methods)  
-- **Thermodynamics & Statistical Mechanics Simulations** (Ising model, molecular dynamics)  
-- **Optimization Techniques** (Gradient descent, variational methods)
+Muitos desses métodos, originalmente desenvolvidos para o estudo de sistemas físicos, são hoje amplamente utilizados em áreas computacionais como aprendizado de máquina, computação científica e modelagem orientada por dados. Ao estabelecer uma ponte entre a física computacional e a ciência de dados moderna, este repositório serve como uma referência prática para físicos, cientistas de dados e pesquisadores interessados em explorar essa interseção.
+
+- Métodos Matemáticos da Física: cálculo de raízes, integração numérica, diferenciação numérica, álgebra linear computacional e métodos variacionais.
+- Simulações de Monte Carlo: processos aleatórios, modelagem estocástica, amostragem estatística e métodos de Markov Chain Monte Carlo.
+- Solvers de Equações Diferenciais: equações diferenciais ordinárias, equações diferenciais parciais, estabilidade numérica, métodos explícitos e implícitos.
+- Physics-Informed Neural Networks (PINNs): aprendizado profundo aplicado à solução de equações diferenciais e problemas inversos em física.
+- Ajuste de Dados e Modelagem Estatística: regressão, ajuste de curvas, inferência bayesiana, estimação de parâmetros e quantificação de incertezas.
+- Processamento de Sinais e Análise de Fourier: análise de ondas, métodos espectrais, transformadas discretas e filtragem de sinais físicos.
+- Simulações em Termodinâmica e Mecânica Estatística: modelo de Ising, dinâmica molecular, gases ideais, transições de fase e ensembles estatísticos.
+- Técnicas de Otimização: descida do gradiente, métodos variacionais, multiplicadores de Lagrange, otimização convexa e otimização não linear.
+- Métodos de Diferenças Finitas e Elementos Finitos: discretização de domínios, solução numérica de equações de campo e problemas de contorno.
+- Mecânica Clássica Computacional: integração de equações de movimento, sistemas hamiltonianos, pêndulos não lineares, caos determinístico e sistemas de muitos corpos.
+- Mecânica Quântica Computacional: equação de Schrödinger, pacotes de onda, tunelamento quântico, poços de potencial e métodos matriciais.
+- Eletromagnetismo Computacional: equações de Maxwell, propagação de ondas eletromagnéticas, potenciais eletrostáticos e métodos de relaxação.
+- Dinâmica de Fluidos Computacional: equações de Navier-Stokes, métodos de diferenças finitas, escoamentos simples, difusão e convecção.
+- Relatividade Numérica e Gravitação Computacional: geodésicas, métricas espaço-temporais, tensores, integração numérica em espaços curvos e visualização de trajetórias.
+- Física de Plasmas e Sistemas Coletivos: dinâmica de partículas carregadas, campos autoconsistentes e modelos simplificados de interação coletiva.
+- Métodos de Autovalores e Autovetores: modos normais, sistemas acoplados, estabilidade linear, operadores diferenciais discretizados e problemas espectrais.
+- Visualização Científica: gráficos, animações, mapas de calor, campos vetoriais, superfícies, trajetórias e visualização de simulações físicas.
+- Computação de Alto Desempenho: vetorização, paralelização, uso eficiente de memória, aceleração com GPU e implementação escalável de simulações numéricas.
 
 # Content
 * [logarithmic_binning.ipynb](https://github.com/ozsantospereira/computational_physics/blob/main/logarithmic_binning.ipynb): A revision of logarithm binning and its application to statistical distributions.
