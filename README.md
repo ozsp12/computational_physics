@@ -7,6 +7,7 @@ Em um curso de Física, aprendemos diversos métodos matemáticos que nos ajudam
 A base da física computacional é composta por métodos da matemática aplicada e computacional, análise numérica, teorias de distribuições estatísticas, inferência tradicional e bayesiana e métodos computacionais. Este repositório apresenta como fundamentos e guia os cursos abaixo:
 
 * [MS211 - Cálculo Numérico (Unicamp)](https://disciplinas.ime.unicamp.br/ms211/)
+* [MT402 - Matrizes (Pós-graduação, IMECC-Unicamp)](https://www.dac.unicamp.br/portal/caderno-de-horarios/2025/1/S/P/IMECC/MT402)
 * [Sample Programs for Computational Physics, 2nd Edition](https://www.physics.purdue.edu/~hisao/book/www/samples.html#chap1)
 * [Introduction to Numerical Analysis (MIT OCW)](https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2004/)
 * [Essential Numerical Methods (MIT OCW)](https://ocw.mit.edu/courses/22-15-essential-numerical-methods-fall-2014/)
@@ -65,7 +66,7 @@ Muitos desses métodos, originalmente desenvolvidos para o estudo de sistemas f�
 * W. H. Press, S. A. Teukolsky, W. T. Vetterling, and B. P. Flannery, Numerical Recipes: The Art of Scientific Computing, 3rd ed. Cambridge: Cambridge University Press, 2007.
 * D. Frenkel and B. Smit, Understanding Molecular Simulation: From Algorithms to Applications, 2nd ed. San Diego, CA: Academic Press, 2002.
 
-# Referências em cálculo numérico
+# Referências de cálculo numérico
 
 * Márcia Aparecida Gomes Ruggiero e Vera Lúcia da Rocha Lopes, Cálculo Numérico: Aspectos Teóricos e Computacionais, 2ª ed. Pearson Education do Brasil, 1997.
 * Alfio Quarteroni e Fausto Saleri, Cálculo Científico com MATLAB e Octave. Springer, 2007.
@@ -78,6 +79,29 @@ Muitos desses métodos, originalmente desenvolvidos para o estudo de sistemas f�
 * Samuel Daniel Conte and Carl de Boor, Elementary Numerical Analysis: An Algorithmic Approach, Updated with MATLAB, 3rd ed. Classics in Applied Mathematics, vol. 78. Society for Industrial and Applied Mathematics, 2018.
 * Francisco Gêvane Muniz Cunha e Jânio Kléo de Sousa Castro, [Cálculo Numérico](https://educapes.capes.gov.br/bitstream/capes/430185/2/Calculo%20Numerico.pdf). Fortaleza: Universidade Aberta do Brasil / Instituto Federal de Educação, Ciência e Tecnologia do Ceará, 2010.
 * E. Sauter, D. A. R. Justo, F. S. de Azevedo, L. F. Guidi, and P. H. A. Konzen, [Cálculo Numérico: Um Livro Colaborativo — Versão Scilab](http://www.mat.ufrgs.br/~guidi/grad/MAT01169/livro-sci.pdf). Porto Alegre: UFRGS, 2020.
+
+# Referências em Matrizes e algoritmos matriciais
+
+* G. Strang, Linear Algebra and Its Applications, 4th ed. Belmont, CA: Thomson Brooks/Cole, 2006.
+* D. S. Watkins, Fundamentals of Matrix Computations, 3rd ed. Hoboken, NJ: John Wiley & Sons, 2010.
+* L. N. Trefethen and D. Bau III, Numerical Linear Algebra. Philadelphia, PA: SIAM, 1997.
+* G. H. Golub and C. F. Van Loan, Matrix Computations, 3rd ed. Baltimore, MD: Johns Hopkins University Press, 1996.
+* G. W. Stewart, Matrix Algorithms, Volume I: Basic Decompositions. Philadelphia, PA: SIAM, 1998.
+* G. W. Stewart, Matrix Algorithms, Volume II: Eigensystems. Philadelphia, PA: SIAM, 2001.
+* J. W. Demmel, Applied Numerical Linear Algebra. Philadelphia, PA: SIAM, 1997.
+* Y. Saad, Iterative Methods for Sparse Linear Systems, 2nd ed. Philadelphia, PA: SIAM, 2003.
+* A. Greenbaum, Iterative Methods for Solving Linear Systems. Philadelphia, PA: SIAM, 1997.
+* Å. Björck, Numerical Methods for Least Squares Problems. Philadelphia, PA: SIAM, 1996.
+* N. J. Higham, Accuracy and Stability of Numerical Algorithms, 2nd ed. Philadelphia, PA: SIAM, 2002.
+* B. N. Parlett, The Symmetric Eigenvalue Problem. Philadelphia, PA: SIAM, 1998.
+* D. S. Watkins, The Matrix Eigenvalue Problem: GR and Krylov Subspace Methods. Philadelphia, PA: SIAM, 2007.
+* C. D. Meyer, Matrix Analysis and Applied Linear Algebra. Philadelphia, PA: SIAM, 2000.
+* R. A. Horn and C. R. Johnson, Matrix Analysis, 2nd ed. Cambridge: Cambridge University Press, 2012.
+* R. A. Horn and C. R. Johnson, Topics in Matrix Analysis. Cambridge: Cambridge University Press, 1991.
+* N. J. Higham, Functions of Matrices: Theory and Computation. Philadelphia, PA: SIAM, 2008.
+* G. W. Stewart and J.-G. Sun, Matrix Perturbation Theory. Boston, MA: Academic Press, 1990.
+* R. Bhatia, Matrix Analysis. New York, NY: Springer, 1997.
+* D. S. Bernstein, Matrix Mathematics: Theory, Facts, and Formulas, 2nd ed. Princeton, NJ: Princeton University Press, 2009.
 
 # Conteúdo do repositório
 
