@@ -7,6 +7,24 @@ Em um curso de Física, aprendemos diversos métodos matemáticos que nos ajudam
 A base da física computacional é composta por métodos da matemática aplicada e computacional, análise numérica, teorias de distribuições estatísticas, inferência tradicional e bayesiana e métodos computacionais. Este repositório apresenta como fundamentos e guia os cursos abaixo:
 
 * [MS211 - Cálculo Numérico (Unicamp)](https://disciplinas.ime.unicamp.br/ms211/)
+* [Sample Programs for Computational Physics, 2nd Edition](https://www.physics.purdue.edu/~hisao/book/www/samples.html#chap1)
+* [Introduction to Numerical Analysis (MIT OCW)](https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2004/)
+* [Essential Numerical Methods (MIT OCW)](https://ocw.mit.edu/courses/22-15-essential-numerical-methods-fall-2014/)
+* [Introduction to Numerical Analysis (MIT OCW)](https://ocw.mit.edu/courses/18-330-introduction-to-numerical-analysis-spring-2012/)
+* [Numerical Computation for Mechanical Engineers (MIT OCW)](https://ocw.mit.edu/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/)
+* [Introduction to Numerical Methods (MIT OCW)](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)
+* [Numerical Methods Applied to Chemical Engineering (MIT OCW)](https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/)
+* [Numerical Computation for Mechanical Engineers (MIT OCW)](https://ocw.mit.edu/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/)
+* [Introduction to Numerical Analysis for Engineering (MIT OCW)](https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/)
+* [Introduction to Algorithms (MIT OCW)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2008/)
+* [Introduction to Numerical Simulation (MIT OCW)](https://ocw.mit.edu/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/)
+* [Numerical Methods for Partial Differential Equations (MIT OCW)](https://ocw.mit.edu/courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/)
+* [Numerical Methods Applied to Chemical Engineering (MIT OCW)](https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/)
+* [Computation for Biological Engineers (MIT OCW)](https://ocw.mit.edu/courses/20-181-computation-for-biological-engineers-fall-2006/)
+* [Principles of Applied Mathematics (MIT OCW)](https://ocw.mit.edu/courses/18-311-principles-of-applied-mathematics-spring-2014/)
+* [Introduction to Convex Optimization (MIT OCW)](https://ocw.mit.edu/courses/6-079-introduction-to-convex-optimization-fall-2009/)
+* [Computational Methods of Scientific Programming (MIT OCW)](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2024/)
+* [Introduction to Computers and Engineering Problem Solving (MIT OCW)](https://ocw.mit.edu/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/)
 
 
 # Tópicos abordados em física computacional neste repositório
@@ -59,6 +77,7 @@ Muitos desses métodos, originalmente desenvolvidos para o estudo de sistemas f�
 * Cleve B. Moler, Numerical Computing with MATLAB. Society for Industrial and Applied Mathematics, 2004.
 * Samuel Daniel Conte and Carl de Boor, Elementary Numerical Analysis: An Algorithmic Approach, Updated with MATLAB, 3rd ed. Classics in Applied Mathematics, vol. 78. Society for Industrial and Applied Mathematics, 2018.
 * Francisco Gêvane Muniz Cunha e Jânio Kléo de Sousa Castro, [Cálculo Numérico](https://educapes.capes.gov.br/bitstream/capes/430185/2/Calculo%20Numerico.pdf). Fortaleza: Universidade Aberta do Brasil / Instituto Federal de Educação, Ciência e Tecnologia do Ceará, 2010.
+* E. Sauter, D. A. R. Justo, F. S. de Azevedo, L. F. Guidi, and P. H. A. Konzen, [Cálculo Numérico: Um Livro Colaborativo — Versão Scilab](http://www.mat.ufrgs.br/~guidi/grad/MAT01169/livro-sci.pdf). Porto Alegre: UFRGS, 2020.
 
 # Conteúdo do repositório
 
