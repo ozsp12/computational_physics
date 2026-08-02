@@ -22,5 +22,4 @@ This repository contains computational physics notes, numerical experiments, Jup
 
 ## Bibliography
 
-- [`_bibliografia_/`](_bibliografia_/) — locally stored reference documents.
-- [`REFERENCES.md`](REFERENCES.md) — general bibliography and external courses.
+- [`REFERENCES.md`](REFERENCES.md) — consolidated bibliography and external courses.
