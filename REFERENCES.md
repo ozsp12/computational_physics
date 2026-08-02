@@ -66,7 +66,3 @@ This file collects the courses, textbooks, lecture notes, and bibliographic reso
 ## Molecular Simulation
 
 - Frenkel, D., and Smit, B. *Understanding Molecular Simulation: From Algorithms to Applications*. 2nd ed. San Diego, CA: Academic Press, 2002.
-
-## Note on the Former Local Bibliography
-
-The former `_bibliografia_/` directory contained seven independent reference works represented above and one internal compilation named `references_computational_physics.pdf`. The compilation was a derivative bibliography rather than an independent publication; its unique entries have been incorporated into this file.
