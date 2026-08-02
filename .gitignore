@@ -1,0 +1,42 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX temporary files
+*.aux
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+
+# Temporary build directories
+build/
+dist/
+tmp/
+.temp/
+
+# Published notebooks, PDFs, images, GIFs, MP4 files, and bibliography
+# documents remain tracked as part of the teaching archive.
