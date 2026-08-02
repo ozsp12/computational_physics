@@ -1,6 +1,6 @@
 # References
 
-This file collects the general courses, textbooks, lecture notes, and bibliographic resources associated with the repository. Individual notebooks may contain more specific references.
+This file collects the courses, textbooks, lecture notes, and bibliographic resources associated with the repository. Individual notebooks may contain additional references specific to their subject.
 
 ## Courses and Educational Resources
 
@@ -19,46 +19,54 @@ This file collects the general courses, textbooks, lecture notes, and bibliograp
 
 ## Computational Physics
 
-- N. J. Giordano and H. Nakanishi, *Computational Physics*, 2nd ed., Prentice Hall, 2006.
-- M. Hjorth-Jensen, *Lecture Notes on Computational Physics*, University of Oslo, 2010.
-- R. H. Landau, M. J. Páez, and C. C. Bordeianu, *Computational Physics: Problem Solving with Python*, 3rd ed., Wiley-VCH, 2015.
-- M. Newman, *Computational Physics*, CreateSpace, 2013.
-- J. M. Thijssen, *Computational Physics*, 2nd ed., Cambridge University Press, 2007.
-- H. Gould, J. Tobochnik, and W. Christian, *An Introduction to Computer Simulation Methods*, 3rd ed., Pearson, 2007.
-- T. Pang, *An Introduction to Computational Physics*, 2nd ed., Cambridge University Press, 2006.
-- S. E. Koonin and D. C. Meredith, *Computational Physics*, Addison-Wesley, 1990.
-- W. H. Press, S. A. Teukolsky, W. T. Vetterling, and B. P. Flannery, *Numerical Recipes*, 3rd ed., Cambridge University Press, 2007.
-- D. Frenkel and B. Smit, *Understanding Molecular Simulation*, 2nd ed., Academic Press, 2002.
+- Berwick, K. *Computational Physics Using MATLAB*. Version 2. Laboratory manual accompanying N. J. Giordano and H. Nakanishi, *Computational Physics*, 2nd ed.
+- Giordano, N. J., and Nakanishi, H. *Computational Physics*. 2nd ed. Upper Saddle River, NJ: Prentice Hall, 2006.
+- Gould, H., Tobochnik, J., and Christian, W. *An Introduction to Computer Simulation Methods: Applications to Physical Systems*. 3rd ed. San Francisco, CA: Pearson Addison-Wesley, 2007.
+- Hjorth-Jensen, M. *Computational Physics: Lecture Notes*. Oslo: University of Oslo, 2010.
+- Koonin, S. E., and Meredith, D. C. *Computational Physics*. Redwood City, CA: Addison-Wesley, 1990.
+- Landau, R. H., Páez, M. J., and Bordeianu, C. C. *Computational Physics: Problem Solving with Python*. 3rd ed. Weinheim: Wiley-VCH, 2015.
+- Newman, M. *Computational Physics*. Scotts Valley, CA: CreateSpace, 2013.
+- Pang, T. *An Introduction to Computational Physics*. 2nd ed. Cambridge: Cambridge University Press, 2006.
+- Press, W. H., Teukolsky, S. A., Vetterling, W. T., and Flannery, B. P. *Numerical Recipes: The Art of Scientific Computing*. 3rd ed. Cambridge: Cambridge University Press, 2007.
+- Stickler, B. A., and Schachinger, E. *Basic Concepts in Computational Physics*. 2nd ed. Cham: Springer International Publishing, 2016. https://doi.org/10.1007/978-3-319-27265-8
+- Thijssen, J. M. *Computational Physics*. 2nd ed. Cambridge: Cambridge University Press, 2007.
 
 ## Numerical Analysis
 
-- M. A. G. Ruggiero and V. L. R. Lopes, *Cálculo Numérico: Aspectos Teóricos e Computacionais*, 2nd ed., Pearson, 1997.
-- A. Quarteroni and F. Saleri, *Cálculo Científico com MATLAB e Octave*, Springer, 2007.
-- M. C. C. Cunha, *Métodos Numéricos*, 2nd ed., Editora da UNICAMP, 2000.
-- S. Arenales and A. Darezzo, *Cálculo Numérico: Aprendizagem com Apoio de Software*, 2nd ed., Cengage, 2016.
-- R. L. Burden and J. D. Faires, *Análise Numérica*, Cengage, 2008.
-- N. B. Franco, *Cálculo Numérico*, Pearson, 2007.
-- A. Greenbaum and T. P. Chartier, *Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms*, Princeton University Press, 2012.
-- C. B. Moler, *Numerical Computing with MATLAB*, SIAM, 2004.
-- S. D. Conte and C. de Boor, *Elementary Numerical Analysis*, 3rd ed., SIAM, 2018.
+- Arenales, S., and Darezzo, A. *Cálculo Numérico: Aprendizagem com Apoio de Software*. 2nd ed. São Paulo: Cengage Learning, 2016.
+- Asano, C. H., and Colli, E. *Cálculo Numérico: Fundamentos e Aplicações*. São Paulo: Departamento de Matemática Aplicada, Instituto de Matemática e Estatística, Universidade de São Paulo, 2009.
+- Burden, R. L., and Faires, J. D. *Análise Numérica*. São Paulo: Cengage Learning, 2008.
+- Conte, S. D., and de Boor, C. *Elementary Numerical Analysis: An Algorithmic Approach*. 3rd ed. Philadelphia: Society for Industrial and Applied Mathematics, 2018.
+- Cunha, F. G. M., and Castro, J. K. S. de. *Cálculo Numérico*. Fortaleza: Universidade Aberta do Brasil and Instituto Federal de Educação, Ciência e Tecnologia do Ceará, 2009.
+- Cunha, M. C. C. *Métodos Numéricos*. 2nd ed. Campinas: Editora da UNICAMP, 2000.
+- Franco, N. B. *Cálculo Numérico*. São Paulo: Pearson Prentice Hall, 2007.
+- Greenbaum, A., and Chartier, T. P. *Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms*. Princeton, NJ: Princeton University Press, 2012.
+- Moler, C. B. *Numerical Computing with MATLAB*. Philadelphia: Society for Industrial and Applied Mathematics, 2004.
+- Quarteroni, A., and Saleri, F. *Cálculo Científico com MATLAB e Octave*. Milan: Springer, 2007.
+- Ruggiero, M. A. G., and Lopes, V. L. R. *Cálculo Numérico: Aspectos Teóricos e Computacionais*. 2nd ed. São Paulo: Pearson Education do Brasil, 1997.
+- Sauter, E., Justo, D. A. R., Azevedo, F. S. de, Guidi, L. F., and Konzen, P. H. A. *Cálculo Numérico: Um Livro Colaborativo — Versão Scilab*. Porto Alegre: Universidade Federal do Rio Grande do Sul, 2018.
 
 ## Matrix Computation and Numerical Linear Algebra
 
-- G. Strang, *Linear Algebra and Its Applications*, 4th ed., Brooks/Cole, 2006.
-- D. S. Watkins, *Fundamentals of Matrix Computations*, 3rd ed., Wiley, 2010.
-- L. N. Trefethen and D. Bau III, *Numerical Linear Algebra*, SIAM, 1997.
-- G. H. Golub and C. F. Van Loan, *Matrix Computations*, Johns Hopkins University Press.
-- G. W. Stewart, *Matrix Algorithms, Volumes I–II*, SIAM.
-- J. W. Demmel, *Applied Numerical Linear Algebra*, SIAM, 1997.
-- Y. Saad, *Iterative Methods for Sparse Linear Systems*, 2nd ed., SIAM, 2003.
-- N. J. Higham, *Accuracy and Stability of Numerical Algorithms*, 2nd ed., SIAM, 2002.
-- R. A. Horn and C. R. Johnson, *Matrix Analysis*, 2nd ed., Cambridge University Press, 2012.
-- N. J. Higham, *Functions of Matrices: Theory and Computation*, SIAM, 2008.
+- Demmel, J. W. *Applied Numerical Linear Algebra*. Philadelphia: SIAM, 1997.
+- Golub, G. H., and Van Loan, C. F. *Matrix Computations*. Baltimore: Johns Hopkins University Press.
+- Higham, N. J. *Accuracy and Stability of Numerical Algorithms*. 2nd ed. Philadelphia: SIAM, 2002.
+- Higham, N. J. *Functions of Matrices: Theory and Computation*. Philadelphia: SIAM, 2008.
+- Horn, R. A., and Johnson, C. R. *Matrix Analysis*. 2nd ed. Cambridge: Cambridge University Press, 2012.
+- Saad, Y. *Iterative Methods for Sparse Linear Systems*. 2nd ed. Philadelphia: SIAM, 2003.
+- Stewart, G. W. *Matrix Algorithms*. Vols. I–II. Philadelphia: SIAM.
+- Strang, G. *Linear Algebra and Its Applications*. 4th ed. Belmont, CA: Brooks/Cole, 2006.
+- Trefethen, L. N., and Bau, D., III. *Numerical Linear Algebra*. Philadelphia: SIAM, 1997.
+- Watkins, D. S. *Fundamentals of Matrix Computations*. 3rd ed. Hoboken, NJ: Wiley, 2010.
 
 ## Optimization
 
-- S. Boyd and L. Vandenberghe, *Convex Optimization*, Cambridge University Press, 2004.
+- Boyd, S., and Vandenberghe, L. *Convex Optimization*. Cambridge: Cambridge University Press, 2004.
 
-## Local Bibliography
+## Molecular Simulation
 
-The repository also contains reference documents under [`_bibliografia_/`](_bibliografia_/). These files are preserved as part of the personal teaching archive.
+- Frenkel, D., and Smit, B. *Understanding Molecular Simulation: From Algorithms to Applications*. 2nd ed. San Diego, CA: Academic Press, 2002.
+
+## Note on the Former Local Bibliography
+
+The former `_bibliografia_/` directory contained seven independent reference works represented above and one internal compilation named `references_computational_physics.pdf`. The compilation was a derivative bibliography rather than an independent publication; its unique entries have been incorporated into this file.
