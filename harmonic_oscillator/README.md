@@ -1,7 +1,12 @@
 # Harmonic Oscillator
 
-This folder contains computational material on harmonic and damped oscillatory motion. The examples illustrate numerical time evolution and the visualization of displacement and phase behavior.
+This module studies oscillatory motion computationally, with emphasis on damping, time evolution, and animation. The harmonic oscillator is useful both as a physical model and as a verification problem because analytical solutions are available for comparison.
 
-The folder includes Jupyter notebooks and rendered animation files.
+## Material
+
+- `damped_harmonic_oscillator_animation.ipynb` — physical model, implementation, and visualization.
+- `oscillator.gif` and `oscillator.mp4` — rendered outputs.
+
+A complete numerical assessment should compare the computed trajectory with the analytical solution, state the damping regime, and report time-step or solver-tolerance sensitivity.
 
 [Return to the repository contents](../CONTENTS.md).
